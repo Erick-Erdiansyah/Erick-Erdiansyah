@@ -4,4 +4,4 @@
 
 ### I'm a looser
 
-learning javascript,php
+learning javascript,php,lua,python,rust
